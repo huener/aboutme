@@ -1,0 +1,13 @@
+.topnav {
+	padding: 4px;
+	color: var(--secondary-color);
+	background-color: var(--primary-color);
+}
+
+.construction {
+	align-self: center;
+	margin: auto;
+	padding-top: 15%;
+	width: 20%;
+	height: 20%;
+}
