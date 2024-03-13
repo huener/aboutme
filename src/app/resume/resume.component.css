@@ -1,0 +1,57 @@
+.resume-header {
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	color: var(--primary-color);
+	font-size: 50px;
+	font-style: bold;
+}
+
+.section-headers {
+	margin-left: 5%;
+	margin-right: 5%;
+	color:var(--primary-color);
+	font-size: 20px;
+	font-style: bold;
+}
+
+hr {
+	border-color: var(--primary-color);
+	margin-bottom: 1%;
+}
+
+.section-bodies {
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 2%;
+	font-size: 14px;
+}
+
+h3 {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul {
+	list-style-position: outside;
+	margin-bottom: 2%;
+}
+
+li {
+	margin-left: 4%;
+}
+
+a:link {
+	color: var(--primary-color);
+	text-decoration: underline;
+}
+
+a:hover {
+	color: var(--primary-color);
+	text-decoration: underline;
+}
+
+a:visited {
+	color: var(--secondary-color);
+	text-decoration: underline;
+}
